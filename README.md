@@ -2,11 +2,9 @@
 
 **Privacy Policy for Enjaz Staff**
 
-Effective Date: [Insert Date]
-
 **1. Introduction**
 
-Enjaz Staff ("the App") is a mobile application developed by [Your Company Name] ("we," "our," or "us") to facilitate employee management within the company. The App is intended for use by authorized employees and managers for managing internal staff operations. This privacy policy explains how we collect, use, and protect your personal information when you use the App.
+Enjaz Staff ("the App") is a mobile application developed by EnjazSoft ("we," "our," or "us") to facilitate employee management within the company. The App is intended for use by authorized employees and managers for managing internal staff operations. This privacy policy explains how we collect, use, and protect your personal information when you use the App.
 
 **2. Information We Collect**
 
@@ -49,4 +47,4 @@ Enjaz
 Email:mahmoudshbool24@gmail.com  
 Phone:00962790342538
 
-rivacy policy to ensure it complies with applicable data privacy laws, such as GDPR or CCPA, if those apply to your company.
+rivacy policy to ensure it complies with applicable data privacy laws, such as GDPR or CCPA, if those apply to EnjazSoft.
